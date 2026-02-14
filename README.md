@@ -12,7 +12,7 @@ like for bold print you can use
 I used Random for choices you can import it will just pop the random things from list for no. or else 
 you can refer the https://www.geeksforgeeks.org/python/python-random-module/
 Total Possible Cases!!
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------\n
 <img width="514" height="390" alt="image" src="https://github.com/user-attachments/assets/781ea858-cf72-4cc2-8935-40e2e542db56" />
 ------------------------------------------------------------------------------
 HOW THE PROGRAM LOOKS
