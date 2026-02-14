@@ -47,4 +47,29 @@ It selects a number using `random.randint(1,6)` which simulates a dice roll.
 
 
 </details>
+<details>
+<summary><b>3. Computer Quiz Game (Click to Expand)</b></summary>
+
+This is a simple Python quiz game, 
+The program randomly selects a question from a list and removes it after asking, so questions never repeat.  
+
+The user types an answer, and the program checks whether it is correct or not.  
+If the answer is wrong, the correct answer is shown.  
+The quiz continues until all questions are completed or the user exits.
+
+This project demonstrates the use of:
+- Lists and tuples
+- Random module
+- Loops and conditions
+- User input handling
+
+---
+
+## HOW THE PROGRAM LOOKS
+
+<img width="467" height="729" alt="image" src="https://github.com/user-attachments/assets/692cbc25-9f22-481a-9ef0-ecb0f0157532" />
+
+
+</details>
+
 
