@@ -26,7 +26,8 @@ you can refer the https://www.geeksforgeeks.org/python/python-random-module/
 
 ## HOW THE PROGRAM LOOKS
 
-![Program Screenshot](https://github.com/user-attachments/assets/7ed74097-4294-466d-bab2-fc9464e6790d)
+<img width="496" height="766" alt="image" src="https://github.com/user-attachments/assets/8600f58d-7cd5-472f-828a-67a8dc9a38b2" />
+
 
 
 </details>
