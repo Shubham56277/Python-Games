@@ -28,4 +28,23 @@ you can refer the https://www.geeksforgeeks.org/python/python-random-module/
 
 ![Program Screenshot](https://github.com/user-attachments/assets/7ed74097-4294-466d-bab2-fc9464e6790d)
 
+
 </details>
+<details>
+<summary><b>2. Dice Roller (Click to Expand)</b></summary>
+
+This is a simple dice rolling game where the program generates a random number between 1 and 6, just like rolling a real dice.  
+The game keeps running until the user chooses to exit.
+
+I used Python's random module to generate numbers.  
+It selects a number using `random.randint(1,6)` which simulates a dice roll.
+
+---
+
+## HOW THE PROGRAM LOOKS
+
+<img width="649" height="392" alt="image" src="https://github.com/user-attachments/assets/9513039c-75af-445f-b358-b0e1fb5996f8" />
+
+
+</details>
+
