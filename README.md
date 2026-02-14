@@ -7,7 +7,7 @@ hello This is The Read ME file for explaination of code :
 <summary><b>1. Rock Paper Scissor (Click to Expand)</b></summary>
 “I used .lower() on the input to convert all letters to lowercase.”
   
-like for bold print you can use  
+#to print the text in BOLD i used this : 
 \033[1m → turns bold ON  
 \033[0m → resets formatting  
 ( resets formatting in simple language if you didnt reset by this all the text will be in bold ) 
