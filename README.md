@@ -67,8 +67,7 @@ This project demonstrates the use of:
 
 ## HOW THE PROGRAM LOOKS
 
-<img width="467" height="729" alt="image" src="https://github.com/user-attachments/assets/692cbc25-9f22-481a-9ef0-ecb0f0157532" />
-
+<img width="483" height="716" alt="image" src="https://github.com/user-attachments/assets/15e7f0d8-6676-485c-8a6e-aa50d2d7609d" />
 
 </details>
 
