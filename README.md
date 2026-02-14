@@ -11,10 +11,9 @@ like for bold print you can use
 
 I used Random for choices you can import it will just pop the random things from list for no. or else 
 you can refer the https://www.geeksforgeeks.org/python/python-random-module/
-
-Total Possible Cases!!
-
 ---
+
+## Total Possible Cases!!
 
 ![Cases Table](https://github.com/user-attachments/assets/781ea858-cf72-4cc2-8935-40e2e542db56)
 
