@@ -5,7 +5,7 @@ hello This is The Read ME file for explaination of code :
 
 <details>
 <summary><b>1. Rock Paper Scissor (Click to Expand)</b></summary>
-“I used .lower() on the input to convert all letters to lowercase.”
+## “I used .lower() on the input to convert all letters to lowercase.”
   
 ## To print the text in BOLD i used this : 
 \033[1m → turns bold ON  
